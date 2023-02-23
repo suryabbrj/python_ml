@@ -13,4 +13,4 @@ enjoy!!!
 
 ![image](https://user-images.githubusercontent.com/68824645/220946019-142c391d-3914-44c0-9649-e16b0841f519.png)
 
-ui of the G  Gradio App!
+current UI of the Gradio App!
