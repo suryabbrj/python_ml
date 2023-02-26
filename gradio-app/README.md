@@ -1,13 +1,3 @@
----
-title: CLIP_prefix_captioning
-emoji: 💩
-colorFrom: red
-colorTo: indigo
-sdk: gradio
-app_file: app.py
-pinned: false
----
-
 # Configuration
 
 `title`: _string_  
