@@ -1,17 +1,3 @@
-# Configuration
-
-`title`: _string_  
-Display title for the Space
-
-`emoji`: _string_  
-Space emoji (emoji-only character allowed)
-
-`colorFrom`: _string_  
-Color for Thumbnail gradient (red, yellow, green, blue, indigo, purple, pink, gray)
-
-`colorTo`: _string_  
-Color for Thumbnail gradient (red, yellow, green, blue, indigo, purple, pink, gray)
-
 `sdk`: _string_  
 Can be either `gradio` or `streamlit`
 
